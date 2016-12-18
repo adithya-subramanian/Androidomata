@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pbl"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.pbl.Pbl"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page2"
+            android:label="@string/title_activity_page2" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page3"
+            android:label="@string/title_activity_page3" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page4"
+            android:label="@string/title_activity_page4" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Inputpage"
+            android:label="@string/title_activity_inputpage" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Table2"
+            android:label="@string/title_activity_table2" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Table3"
+            android:label="@string/title_activity_table3" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Table4"
+            android:label="@string/title_activity_table4" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page21"
+            android:label="@string/title_activity_page21" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page22"
+            android:label="@string/title_activity_page22" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page31"
+            android:label="@string/title_activity_page31" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Page32"
+            android:label="@string/title_activity_page32" >
+        </activity>
+        <activity
+            android:name="com.example.pbl.Finalpage"
+            android:label="@string/title_activity_finalpage" >
+        </activity>
+    </application>
+
+</manifest>

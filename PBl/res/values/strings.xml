@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PBl</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_page2">Page2</string>
+    <string name="title_activity_page3">Page3</string>
+    <string name="title_activity_page4">Page4</string>
+    <string name="title_activity_inputpage">Inputpage</string>
+    <string name="title_activity_table2">Table2</string>
+    <string name="title_activity_table3">Table3</string>
+    <string name="title_activity_table4">Table4</string>
+    <string name="title_activity_page21">Page21</string>
+    <string name="title_activity_page22">Page22</string>
+    <string name="title_activity_page31">Page31</string>
+    <string name="title_activity_page32">Page32</string>
+    <string name="title_activity_finalpage">Finalpage</string>
+
+</resources>
